@@ -1,4 +1,15 @@
 
 body {
-    background-color: darkkhaki;
+    background-color: black;
+    color: white;
+}
+
+#confetti {
+    background: #000;
+    height: 100%;
+    left: 0px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: -1;
 }
